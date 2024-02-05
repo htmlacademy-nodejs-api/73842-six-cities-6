@@ -1,4 +1,4 @@
-import { Proposer } from "./proposer.type.js";
+import { Proposer } from './proposer.type.js';
 
 export type Offer = {
   title: string;

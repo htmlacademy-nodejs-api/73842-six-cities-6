@@ -35,7 +35,7 @@ export function createOffer(offerData: string): Offer {
     city,
     previewImage,
     images: images.split(';')
-    .map((path) => (path)),
+      .map((path) => (path)),
     premium: !!premium,
     favorites: !!favorites,
     rating: Number.parseInt(rating, 10),
