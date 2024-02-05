@@ -1,0 +1,157 @@
+{
+  "api": {
+    "titles": [
+      "Дом у озера",
+      "Квартира в высотке",
+      "Загородный дом",
+      "Глэмпинг в лесу",
+      "Гостиница SPA",
+      "Гостевой дом",
+      "Хостел на берегу моря"
+    ],
+    "descriptions": [
+      "Две спальни, просторная лоджия, мебель, wifi, отдельный душ, туалет.",
+      "Одна спальня, мебель, wifi, можно курить, совместный душ, туалет. Соседи играют на ударных",
+      "Три спальни, балкон, тараканы, плопы, мебель, wifi нет, душ не работает, туалет тоже.",
+      "Кровать в гостинной, матрас дырявый, мебель, wifi, отдельный душ, туалет.",
+      "Пять спален, просторная балкно, мебель из золота, унитах тоже золтой, wifi 6G, радиоактивная подсветка на кухне."
+    ],
+    "postDates": [
+      "12/03/2023",
+      "13/03/2023",
+      "15/03/2023",
+      "17/07/2023",
+      "12/12/2023",
+      "23/09/2023",
+      "30/12/2023",
+      "17/01/2023",
+      "18/06/2023"
+    ],
+    "cities": [
+      "Мосвка",
+      "Казань",
+      "Екатеринбург",
+      "Тюмень",
+      "Новгород",
+      "Санкт-Питербург",
+      "Астрахань",
+      "Махачкала",
+      "Рязань"
+    ],
+    "previewImages": [
+      "book.jpg",
+      "institute-book.jpg",
+      "dark-tower.jpg",
+      "shining.jpg",
+      "draft.jpg",
+      "magic.jpg"
+    ],
+    "images": [
+      "category-book.jpg",
+      "category-disk.jpg",
+      "category-home.jpg",
+      "category-games.jpg",
+      "category-entertainment.jpg",
+      "category-films.jpg"
+    ],
+    "premium": [
+      1,
+      0
+    ],
+    "favorites": [
+      1,
+      0
+    ],
+    "rating": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "types": [
+      "Квартира",
+      "Дом",
+      "Апартаменты",
+      "Хостел"
+    ],
+    "numberOfRooms": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "numberOfGests": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "prices": [
+      1000,
+      2000,
+      3000,
+      4000,
+      50000
+    ],
+    "facilities": [
+      "Breakfast",
+      "Air conditioning",
+      "Laptop friendly workspace",
+      "Baby seat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "proposer": {
+      "names": [
+        "Иван Иванов",
+        "Олег Сидоров",
+        "Пьер Безухов",
+        "Роланд Дискейн",
+        "Холи Гибни",
+        "Джек Торренс",
+        "Антон Городецкий",
+        "Борис Гесер",
+        "Рокки Бальбоа",
+        "Джон Смит"
+      ],
+      "emails": [
+        "snow@pisem.local",
+        "president@dka.local",
+        "fish@big.local",
+        "test@pisem.local",
+        "freedom@pisem.local",
+        "rolan@pochta.local",
+        "author@mir.local",
+        "test@lost.local",
+        "kujo-fan@story.local"
+      ],
+      "avatarPaths": [
+        "user.jpg",
+        "photo.jpg",
+        "awesome-avatar.jpg",
+        "roland.jpg",
+        "smite.jpg",
+        "coffee.jpg"
+      ],
+      "passwords": [
+        "xvfdsgabe",
+        "adssfbdgn",
+        "dsfdbgf",
+        "dasgfdhnf",
+        "afdsdbgfnh",
+        "cxbthewfrthvb",
+        "fbntrgshs",
+        "dfnthjygrhb",
+        "fdnfsgrgenjy"
+      ],
+      "proposerTypes": [
+        "обычный",
+        "pro"
+      ]
+    }
+  }
+}
